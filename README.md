@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alperen Özkan
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Blockchain Development, Smart Contracts and Solidity.
-- 📫 How to reach me alperenweb3@gmail.com
+- 📫 You can reach me via alperenweb3@gmail.com
 
 <!---
 thechiefalone/thechiefalone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

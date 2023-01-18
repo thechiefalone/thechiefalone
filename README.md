@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Alperen Özkan
-- 👀 I’m interested in Full Stack Web Development
+- 👋 Hi, I’m Alperen Özkan - Full Stack Web Developer
+- 👀 I’m good at React.js, Next.js and WordPress
 - 🌱 I’m currently learning Blockchain Development, Smart Contracts and Solidity.
 - 📫 You can reach me via alperenweb3@gmail.com
 
